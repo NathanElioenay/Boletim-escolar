@@ -32,7 +32,7 @@ Sistema simples de gerenciamento de alunos desenvolvido em Python para praticar 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/boletim-escolar.git
+git clone https://github.com/NathanElioenay/boletim-escolar.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -62,7 +62,11 @@ python boletimescolar.py
 
 ## Objetivo
 
+## Objetivo
+
 Este projeto foi desenvolvido com fins educacionais para consolidar conhecimentos básicos de Python e lógica de programação.
+
+> Os dados presentes no arquivo `alunos.txt` são fictícios e foram utilizados apenas para fins de teste e aprendizado, simulando operações de cadastro, leitura, remoção e salvamento de dados.
 
 ## Autor
 
