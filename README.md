@@ -32,7 +32,7 @@ Sistema simples de gerenciamento de alunos desenvolvido em Python para praticar 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/boletim-escolar.git
+git clone https://github.com/NathanElioenay/boletim-escolar.git
 ```
 
 2. Acesse a pasta do projeto:
